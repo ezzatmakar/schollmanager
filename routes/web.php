@@ -11,4 +11,3 @@ Route::group(['prefix' => LaravelLocalization::setLocale(),
         return view('dashboard');
     });
 });
-
